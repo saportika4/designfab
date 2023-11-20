@@ -671,7 +671,7 @@ a.button-style-3:hover::before {
   animation-duration: 2s;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
-  background-image: url(../images/loader.png);
+  background-image: url(../images/logo.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 60px auto;
