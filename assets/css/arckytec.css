@@ -10470,3 +10470,9 @@ a.button-style-3:hover::before {
   width: 1px;
   background-color: var(--arckytec-base);
 }
+
+.gall_resp {
+  min-height: 340px;
+  max-height: 340px;
+    object-fit: cover;
+}
